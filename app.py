@@ -7,7 +7,14 @@ import uvicorn
 
 templates = Jinja2Templates(directory='templates')
 
-app = Starlette(debug=True)
+app = Starlette(
+    debug=True,
+    routes=routes,
+    on_startup=[database.connect],
+    on_shutdown=[database.disconnect]
+)
+
+
 app.mount('/static', StaticFiles(directory='statics'), name='static')
 
 

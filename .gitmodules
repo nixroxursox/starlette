@@ -1,3 +1,6 @@
 [submodule "webargs-starlette"]
 	path = webargs-starlette
 	url = git@github.com:nixroxursox/webargs-starlette.git
+[submodule "starlette-context"]
+	path = starlette-context
+	url = git@github.com:nixroxursox/starlette-context.git

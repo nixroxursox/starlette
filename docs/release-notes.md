@@ -1,62 +1,9 @@
-<<<<<<< HEAD
-hide: navigation
-toc_depth: 2
-=======
----
-=======
->>>>>>> 2f56c6f (rebase)
 hide: navigation
 toc_depth: 2
 ---
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 2912002 (Version 0.38.0 (#2647))
-## 0.38.0
-
-July 20, 2024
-
-#### Added
-
-* Allow use of `memoryview` in `StreamingResponse` and `Response` [#2576](https://github.com/encode/starlette/pull/2576)
-  and [#2577](https://github.com/encode/starlette/pull/2577).
-* Send 404 instead of 500 when filename requested is too long on `StaticFiles` [#2583](https://github.com/encode/starlette/pull/2583).
-
-#### Changed
-
-* Fail fast on invalid `Jinja2Template` instantiation parameters [#2568](https://github.com/encode/starlette/pull/2568).
-* Check endpoint handler is async only once [#2536](https://github.com/encode/starlette/pull/2536).
-
-#### Fixed
-
-* Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
-
-<<<<<<< HEAD
-=======
-## 0.37.2
-<<<<<<< HEAD
->>>>>>> 2f56c6f (rebase)
-=======
-<<<<<<< HEAD
->>>>>>> 87955e3 (Version 0.38.0 (#2647))
-
-July 20, 2024
-
-#### Added
-
-* Allow use of `memoryview` in `StreamingResponse` and `Response` [#2576](https://github.com/encode/starlette/pull/2576)
-  and [#2577](https://github.com/encode/starlette/pull/2577).
-* Send 404 instead of 500 when filename requested is too long on `StaticFiles` [#2583](https://github.com/encode/starlette/pull/2583).
-
-#### Changed
-
-* Fail fast on invalid `Jinja2Template` instantiation parameters [#2568](https://github.com/encode/starlette/pull/2568).
-* Check endpoint handler is async only once [#2536](https://github.com/encode/starlette/pull/2536).
-
-#### Fixed
-
-* Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
-
+hide: navigation
+toc_depth: 2
+---
 July 20, 2024
 
 #### Added
@@ -75,9 +22,21 @@ July 20, 2024
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
 ## 0.37.2
->>>>>>> 4707fe5 (Version 0.38.0 (#2647))
-=======
->>>>>>> 2912002 (Version 0.38.0 (#2647))
+
+#### Added
+
+* Allow use of `memoryview` in `StreamingResponse` and `Response` [#2576](https://github.com/encode/starlette/pull/2576)
+  and [#2577](https://github.com/encode/starlette/pull/2577).
+* Send 404 instead of 500 when filename requested is too long on `StaticFiles` [#2583](https://github.com/encode/starlette/pull/2583).
+
+#### Changed
+
+* Fail fast on invalid `Jinja2Template` instantiation parameters [#2568](https://github.com/encode/starlette/pull/2568).
+* Check endpoint handler is async only once [#2536](https://github.com/encode/starlette/pull/2536).
+
+#### Fixed
+
+* Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
 July 20, 2024
 
@@ -116,9 +75,25 @@ July 20, 2024
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
 ## 0.37.2
-<<<<<<< HEAD
-<<<<<<< HEAD
 
+July 20, 2024
+
+#### Added
+
+* Allow use of `memoryview` in `StreamingResponse` and `Response` [#2576](https://github.com/encode/starlette/pull/2576)
+  and [#2577](https://github.com/encode/starlette/pull/2577).
+* Send 404 instead of 500 when filename requested is too long on `StaticFiles` [#2583](https://github.com/encode/starlette/pull/2583).
+
+#### Changed
+
+* Fail fast on invalid `Jinja2Template` instantiation parameters [#2568](https://github.com/encode/starlette/pull/2568).
+* Check endpoint handler is async only once [#2536](https://github.com/encode/starlette/pull/2536).
+
+#### Fixed
+
+* Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
+
+## 0.37.2
 July 20, 2024
 
 #### Added

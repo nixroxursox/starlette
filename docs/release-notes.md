@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hide: navigation
 toc_depth: 2
 ---
@@ -5,6 +6,8 @@ toc_depth: 2
 =======
 =======
 >>>>>>> 2912002 (Version 0.38.0 (#2647))
+=======
+>>>>>>> 6761840 (rebase)
 ## 0.38.0
 
 July 20, 2024
@@ -25,6 +28,7 @@ July 20, 2024
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
 ## 0.37.2
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 July 20, 2024
@@ -66,6 +70,8 @@ July 20, 2024
 =======
 >>>>>>> 2912002 (Version 0.38.0 (#2647))
 
+=======
+>>>>>>> 6761840 (rebase)
 ## 0.39.2 (September 29, 2024)
 
 #### Fixed

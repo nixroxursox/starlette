@@ -1,9 +1,38 @@
+<<<<<<< HEAD
 hide: navigation
 toc_depth: 2
 ---
 hide: navigation
 toc_depth: 2
 ---
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+hide: navigation
+toc_depth: 2
+---
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2912002 (Version 0.38.0 (#2647))
+=======
+>>>>>>> 6761840 (rebase)
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+---
+hide: navigation
+toc_depth: 2
+---
+=======
+>>>>>>> 574859d (rebase)
+>>>>>>> debe700 (rebase)
+## 0.38.0
+=======
+## 0.38.0
+
+>>>>>>> a272464 (rebase)
 July 20, 2024
 
 #### Added
@@ -22,6 +51,7 @@ July 20, 2024
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
 ## 0.37.2
+<<<<<<< HEAD
 
 #### Added
 
@@ -37,6 +67,9 @@ July 20, 2024
 #### Fixed
 
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
+=======
+>>>>>>> 8b1d2c2 (Version 0.38.0 (#2647))
+>>>>>>> a272464 (rebase)
 
 July 20, 2024
 

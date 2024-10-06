@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 hide: navigation
 toc_depth: 2
 =======
 ---
+=======
+>>>>>>> 2f56c6f (rebase)
 hide: navigation
 toc_depth: 2
 ---
@@ -24,6 +27,10 @@ July 20, 2024
 
 * Add proper synchronization to `WebSocketTestSession` [#2597](https://github.com/encode/starlette/pull/2597).
 
+<<<<<<< HEAD
+=======
+## 0.37.2
+>>>>>>> 2f56c6f (rebase)
 
 July 20, 2024
 
